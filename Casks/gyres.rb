@@ -2,8 +2,7 @@ cask "gyres" do
   version "0.71.0"
   sha256 "7c642a19e61483a8bc07d003bc4c95d9d3d986792f89d822e64dddcd4b4af58f"
 
-  url "https://github.com/windword-labs/gyres-releases/releases/download/v#{version}/Gyres-darwin-arm64.zip",
-      verified: "github.com/windword-labs/gyres-releases/"
+  url "https://github.com/windword-labs/gyres-releases/releases/download/v#{version}/Gyres-darwin-arm64.zip"
   name "Gyres"
   desc "Personal AI agent runtime with desktop, web and mobile clients"
   homepage "https://gyres.app/"
