@@ -12,6 +12,8 @@ Apple silicon (arm64) only; macOS 12 or later.
 brew install --cask windword-labs/tap/gyres
 ```
 
+Installing by the fully qualified name trusts this one cask ([Homebrew tap trust](https://docs.brew.sh/Tap-Trust)); no `brew trust` step is needed.
+
 ## Upgrade
 
 Gyres updates itself, so `brew upgrade` leaves it alone. To reinstall the latest release through Homebrew instead:
