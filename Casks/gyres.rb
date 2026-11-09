@@ -1,6 +1,6 @@
 cask "gyres" do
-  version "0.117.2"
-  sha256 "049fac56f6f8cb248315d4a2f66f152744cda08505ec522a9f0745983a1b4299"
+  version "0.118.0"
+  sha256 "7c328e27086745911da34a9d2fda6fcc34965802abcf3f253434802b15476027"
 
   url "https://github.com/windword-labs/gyres-releases/releases/download/v#{version}/Gyres-darwin-arm64.zip"
   name "Gyres"
